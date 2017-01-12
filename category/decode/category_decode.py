@@ -1,6 +1,6 @@
 # -*- coding:utf8 -*-
 import json
-from category import Category
+from category.category import Category
 
 
 def decode_category_json(json_str):
